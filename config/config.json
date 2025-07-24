@@ -1,0 +1,19 @@
+{
+    "scene": {
+        "type": "simple",
+        "seed": 1
+    },
+    "vehicle": {
+
+    },
+    "sensors": {
+        "camera": {
+            "enable": true,
+            "frequency": 2.0,
+            "transform": {
+                "pos": [0.0, 0.0, 0.0],
+                "hpr": [0.0, 0.0, 0.0]
+            }
+        }
+    }
+}

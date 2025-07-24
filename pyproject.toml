@@ -4,4 +4,7 @@ version = "0.1.0"
 description = "Simulation Platform for Autonomous Robots in Complex Environments"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "numpy>=2.3.1",
+    "panda3d>=1.10.15",
+]
